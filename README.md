@@ -47,6 +47,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=allangonc4lv
 
 <p>
 
-<a href="https://www.linkedin.com/allangonc4lves">
+<a href="https://www.linkedin.com/in/allangonc4lves">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>

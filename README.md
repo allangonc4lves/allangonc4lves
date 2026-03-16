@@ -1,16 +1,52 @@
-## Hi there 👋
+<h1 align="center">Olá 👋, eu sou Allan</h1>
 
-<!--
-**allangonc4lves/allangonc4lves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Analista de TI | Desenvolvedor em formação | Android • Web • Java</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Sobre mim
+
+🎓 Formado em **Análise e Desenvolvimento de Sistemas**
+
+👨‍🏫 **5 anos como Professor de Informática**
+
+💼 **10+ anos de experiência como Analista de TI**
+
+
+🚀 Sempre buscando evoluir e aprender novas tecnologias.
+
+---
+
+## 📊 GitHub Status
+
+<p align="center">
+
+<img 
+height="180em" 
+src="https://github-readme-stats.vercel.app/api?username=allangonc4lves&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+/>
+
+<img 
+height="180em" 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=allangonc4lves&layout=compact&langs_count=7&theme=tokyonight"
+/>
+
+</p>
+
+---
+
+## 🔥 Sequência de Contribuições
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=allangonc4lves&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+## 📫 Meu linkedin
+
+<p>
+
+<a href="https://www.linkedin.com/allangonc4lves">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>

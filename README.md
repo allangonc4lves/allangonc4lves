@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, eu sou Allan</h1>
 
-<h3 align="center">Analista de TI | Desenvolvedor backend Java</h3>
+<h3 align="center">Analista de TI | Desenvolvedor Android Kolin e estudante de Java Backend</h3>
 
 ---
 

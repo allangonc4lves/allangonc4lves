@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Allan Gonçalves Silvestre
 
-🎓 Graduado em **Analise e desenvolvimento de sistemas** pela Unicesumar 
-💼 Analista de T.I na [PRONET]([https://www.dio.me](https://pronet-pe.com.br/)) | Desenvolvedor Android nativo Kotlin  
+🎓 Graduado em **Analise e desenvolvimento de sistemas** pela Unicesumar <br>
+💼 Analista de T.I na [PRONET]([https://www.dio.me](https://pronet-pe.com.br/)) | Desenvolvedor Android nativo Kotlin <br> 
 🌍 Serra Talhada, Pernambuco, Brasil 
 
 ---

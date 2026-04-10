@@ -13,7 +13,7 @@
 ---
 
 ## 📊 GitHub Stats
-![allangonc4lves GitHub stats](https://github-readme-stats.vercel.app/api?username=allangonc4lves&show_icons=true&theme=radical)
+![allangonc4lves GitHub stats]((https://github-readme-stats.vercel.app/api?username=allangonc4lves))
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allangonc4lves&layout=compact&theme=radical)
 

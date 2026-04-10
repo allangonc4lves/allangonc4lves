@@ -1,47 +1,23 @@
-<h1 align="center">Olá 👋, eu sou Allan</h1>
+# 👋 Olá, eu sou Allan Gonçalves Silvestre
 
-<h3 align="center">Desenvolvedor Android Kolin e estudante de Java Backend</h3>
-
----
-
-## 👨‍💻 Sobre mim
-
-🎓 Formado em **Análise e Desenvolvimento de Sistemas**
-
-👨‍🏫 **5 anos como Professor de Informática**
-
-💼 **10+ anos de experiência como Analista de TI**
-
-
-🚀 Sempre buscando evoluir e aprender novas tecnologias.
+🎓 Graduado em **Analise e desenvolvimento de sistemas** pela Unicesumar 
+💼 Analista de T.I na [PRONET]([https://www.dio.me](https://pronet-pe.com.br/)) | Desenvolvedor Android nativo Kotlin  
+🌍 Serra Talhada, Pernambuco, Brasil 
 
 ---
 
-## 📊 GitHub Status
-
-<p align="center">
-
-<img 
-height="180em" 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=allangonc4lves&layout=compact&langs_count=7&theme=tokyonight"
-/>
-
-</p>
+## 🛠️ Principais Competências
+- **Linguagens:** Java, Kotlin  
+- **Plataformas:** Android,   
 
 ---
 
-## 🔥 Sequência de Contribuições
+## 📊 GitHub Stats
+![allangonc4lves GitHub stats](https://github-readme-stats.vercel.app/api?username=allangonc4lves&show_icons=true&theme=radical)
 
-<p align="center">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allangonc4lves&layout=compact&theme=radical)
 
-<img src="https://streak-stats.demolab.com?user=allangonc4lves&theme=tokyonight&hide_border=true"/>
+---
 
-</p>
-
-## 📫 Meu linkedin
-
-<p>
-
-<a href="https://www.linkedin.com/in/allangonc4lves">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+## 📫 Contato
+- 🔗 [LinkedIn](https://www.linkedin.com/in/allangonc4lves) 

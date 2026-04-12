@@ -7,8 +7,7 @@
 ---
 
 ## 🛠️ Principais Competências
-- **Linguagens:** Java, Kotlin  
-- **Plataformas:** Android,   
+- **Linguagens:** Java, Kotlin    
 
 ---
 

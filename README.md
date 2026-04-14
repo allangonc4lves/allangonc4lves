@@ -2,7 +2,7 @@
 
 🎓 Graduado em **Analise e desenvolvimento de sistemas** pela Unicesumar <br>
 💼 Analista de T.I na [PRONET]([https://www.dio.me](https://pronet-pe.com.br/)) | Android Developer <br> 
-🌍 Serra Talhada, Pernambuco, Brasil 
+🌍 Pernambuco, Brasil 
 
 ---
 
